@@ -159,6 +159,7 @@
 				TargetAttributes = {
 					041EDBC81A625CEC00ECDA48 = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = K7D67FGR98;
 					};
 				};
 			};
@@ -389,7 +390,7 @@
 			baseConfigurationReference = 7AD1ECB4C5EAD4594D3CDDED /* Pods-LoveInASnap.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = K7D67FGR98;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = LoveInASnap/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
@@ -415,7 +416,7 @@
 			baseConfigurationReference = 84B31A213822C2A0DD2B8E08 /* Pods-LoveInASnap.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = K7D67FGR98;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = LoveInASnap/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
